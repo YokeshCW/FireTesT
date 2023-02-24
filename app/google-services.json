@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "279678505053",
+    "project_id": "fir-app-edb1c",
+    "storage_bucket": "fir-app-edb1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279678505053:android:7e5ea82619240971357db4",
+        "android_client_info": {
+          "package_name": "com.hellokh.sovary.firetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279678505053-ohtue0l2k8ikob22596mhs1q95bm1v5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hellokh.sovary.firetest",
+            "certificate_hash": "04c718a6fffa12262cc4f85890c4a5816fee4b39"
+          }
+        },
+        {
+          "client_id": "279678505053-sqi2alnc1ek9j4st76vhls82q33u2dme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG9qVrrlp66wa70dL_n69in0Nq6xdN6gI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279678505053-sqi2alnc1ek9j4st76vhls82q33u2dme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
